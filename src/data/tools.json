@@ -1,0 +1,14 @@
+[
+  { "id": "stripe", "name": "Stripe", "description": "Payments for SaaS and digital products.", "link": "https://stripe.com", "category": "Payments" },
+  { "id": "vercel", "name": "Vercel", "description": "Deploy your web app instantly.", "link": "https://vercel.com", "category": "Hosting" },
+  { "id": "mailchimp", "name": "Mailchimp", "description": "Email marketing and automation.", "link": "https://mailchimp.com", "category": "Email" },
+  { "id": "notion", "name": "Notion", "description": "Docs, wikis, and project management.", "link": "https://notion.so", "category": "Productivity" },
+  { "id": "canva", "name": "Canva", "description": "Design anything, fast.", "link": "https://canva.com", "category": "Design" },
+  { "id": "ghost", "name": "Ghost", "description": "Open source blogging platform.", "link": "https://ghost.org", "category": "Blog" },
+  { "id": "google-analytics", "name": "Google Analytics", "description": "Website analytics and insights.", "link": "https://analytics.google.com", "category": "Analytics" },
+  { "id": "mailerlite", "name": "MailerLite", "description": "Simple, effective email campaigns.", "link": "https://mailerlite.com", "category": "Email" },
+  { "id": "discord", "name": "Discord", "description": "Chat and community platform.", "link": "https://discord.com", "category": "Community" },
+  { "id": "zapier", "name": "Zapier", "description": "Automate your workflows.", "link": "https://zapier.com", "category": "Automation" },
+  { "id": "typeform", "name": "Typeform", "description": "Beautiful forms and surveys.", "link": "https://typeform.com", "category": "Forms" },
+  { "id": "gumroad", "name": "Gumroad", "description": "Sell digital products easily.", "link": "https://gumroad.com", "category": "E-commerce" }
+] 

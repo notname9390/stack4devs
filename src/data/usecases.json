@@ -1,0 +1,72 @@
+[
+  {
+    "id": "saas-launch",
+    "title": "Launch a SaaS",
+    "description": "Everything you need to launch a software-as-a-service business, from landing page to payments.",
+    "default_budget": 50,
+    "recommended_tools": ["stripe", "vercel", "mailchimp", "notion", "canva"]
+  },
+  {
+    "id": "run-blog",
+    "title": "Run a Blog",
+    "description": "Set up a professional blog with analytics, SEO, and newsletter.",
+    "default_budget": 10,
+    "recommended_tools": ["ghost", "google-analytics", "mailerlite", "canva"]
+  },
+  {
+    "id": "grow-discord",
+    "title": "Grow a Discord Community",
+    "description": "Tools to grow, manage, and engage a Discord community.",
+    "default_budget": 0,
+    "recommended_tools": ["discord", "zapier", "canva", "typeform"]
+  },
+  {
+    "id": "sell-digital-products",
+    "title": "Sell Digital Products",
+    "description": "Everything you need to sell e-books, courses, or downloads online.",
+    "default_budget": 20,
+    "recommended_tools": ["gumroad", "notion", "stripe", "canva"]
+  },
+  {
+    "id": "launch-newsletter",
+    "title": "Launch a Newsletter",
+    "description": "Start and grow a professional email newsletter.",
+    "default_budget": 0,
+    "recommended_tools": ["mailerlite", "canva", "notion"]
+  },
+  {
+    "id": "build-portfolio",
+    "title": "Build a Portfolio Website",
+    "description": "Showcase your work and skills with a beautiful portfolio.",
+    "default_budget": 5,
+    "recommended_tools": ["vercel", "canva", "notion"]
+  },
+  {
+    "id": "start-ecommerce",
+    "title": "Start an E-commerce Store",
+    "description": "Sell physical or digital products online with ease.",
+    "default_budget": 30,
+    "recommended_tools": ["gumroad", "stripe", "canva", "mailchimp"]
+  },
+  {
+    "id": "launch-mobile-app",
+    "title": "Launch a Mobile App",
+    "description": "Tools to launch and market your mobile app.",
+    "default_budget": 50,
+    "recommended_tools": ["notion", "mailchimp", "canva", "google-analytics"]
+  },
+  {
+    "id": "grow-youtube",
+    "title": "Grow a YouTube Channel",
+    "description": "Create, promote, and monetize your YouTube content.",
+    "default_budget": 0,
+    "recommended_tools": ["canva", "mailerlite", "notion"]
+  },
+  {
+    "id": "open-source-project",
+    "title": "Launch an Open Source Project",
+    "description": "Collaborate, document, and grow your open source project.",
+    "default_budget": 0,
+    "recommended_tools": ["notion", "mailerlite", "canva"]
+  }
+] 

@@ -1,0 +1,1001 @@
+[
+  {
+    "id": "marketing-0",
+    "field": "marketing",
+    "budget_min": 0,
+    "budget_max": 0,
+    "tools": [
+      {
+        "name": "MailerLite",
+        "purpose": "Email marketing",
+        "price": "Free up to 1,000 subscribers",
+        "description": "Simple, effective email campaigns with automation.",
+        "link": "https://www.mailerlite.com",
+        "automation": "auto",
+        "aiFeatures": ["Smart segmentation", "Automated workflows"]
+      },
+      {
+        "name": "Canva",
+        "purpose": "Design",
+        "price": "Free",
+        "description": "Create stunning visuals with AI-powered design suggestions.",
+        "link": "https://canva.com",
+        "automation": "ai",
+        "aiFeatures": ["AI design suggestions", "Auto-resize", "Smart templates"]
+      },
+      {
+        "name": "Buffer",
+        "purpose": "Social media",
+        "price": "Free for 3 accounts",
+        "description": "Schedule and automate social media posts.",
+        "link": "https://buffer.com",
+        "automation": "auto",
+        "aiFeatures": ["Optimal posting times", "Content suggestions"]
+      },
+      {
+        "name": "Google Analytics",
+        "purpose": "Analytics",
+        "price": "Free",
+        "description": "Track website performance with AI insights.",
+        "link": "https://analytics.google.com",
+        "automation": "ai",
+        "aiFeatures": ["Smart insights", "Automated reports", "Anomaly detection"]
+      },
+      {
+        "name": "Zapier",
+        "purpose": "Automation",
+        "price": "Free for 100 tasks/month",
+        "description": "Connect apps and automate workflows without coding.",
+        "link": "https://zapier.com",
+        "automation": "auto",
+        "aiFeatures": ["Smart suggestions", "Workflow optimization"]
+      },
+      {
+        "name": "Hootsuite",
+        "purpose": "Social media",
+        "price": "Free for 3 profiles",
+        "description": "Manage multiple social media accounts with AI insights.",
+        "link": "https://hootsuite.com",
+        "automation": "ai",
+        "aiFeatures": ["Content suggestions", "Optimal timing", "Sentiment analysis"]
+      },
+      {
+        "name": "Mailchimp",
+        "purpose": "Email marketing",
+        "price": "Free for 2,000 contacts",
+        "description": "Email marketing with AI-powered personalization.",
+        "link": "https://mailchimp.com",
+        "automation": "ai",
+        "aiFeatures": ["Smart recommendations", "Behavioral targeting", "A/B testing"]
+      }
+    ]
+  },
+  {
+    "id": "marketing-10",
+    "field": "marketing",
+    "budget_min": 10,
+    "budget_max": 10,
+    "tools": [
+      {
+        "name": "ConvertKit",
+        "purpose": "Email marketing",
+        "price": "$9/month",
+        "description": "Advanced email automation with AI-powered segmentation.",
+        "link": "https://convertkit.com",
+        "automation": "auto",
+        "aiFeatures": ["Smart segmentation", "Behavioral triggers", "A/B testing"]
+      },
+      {
+        "name": "Later",
+        "purpose": "Social media",
+        "price": "$18/month",
+        "description": "AI-powered social media scheduling and analytics.",
+        "link": "https://later.com",
+        "automation": "auto",
+        "aiFeatures": ["Best time to post", "Content optimization", "Performance predictions"]
+      },
+      {
+        "name": "Grammarly",
+        "purpose": "Content writing",
+        "price": "$12/month",
+        "description": "AI-powered writing assistant for better content.",
+        "link": "https://grammarly.com",
+        "automation": "ai",
+        "aiFeatures": ["Grammar checking", "Tone suggestions", "Style improvements"]
+      },
+      {
+        "name": "Hotjar",
+        "purpose": "User behavior",
+        "price": "$10/month",
+        "description": "AI-powered heatmaps and user behavior analysis.",
+        "link": "https://hotjar.com",
+        "automation": "ai",
+        "aiFeatures": ["Smart insights", "Behavioral patterns", "Conversion optimization"]
+      },
+      {
+        "name": "IFTTT",
+        "purpose": "Automation",
+        "price": "$5/month",
+        "description": "Create automated workflows between apps and services.",
+        "link": "https://ifttt.com",
+        "automation": "auto",
+        "aiFeatures": ["Smart triggers", "Conditional logic"]
+      },
+      {
+        "name": "SendinBlue",
+        "purpose": "Email marketing",
+        "price": "$8/month",
+        "description": "Email marketing with SMS and chat features.",
+        "link": "https://sendinblue.com",
+        "automation": "auto",
+        "aiFeatures": ["Smart segmentation", "Behavioral automation", "A/B testing"]
+      },
+      {
+        "name": "Crello",
+        "purpose": "Design",
+        "price": "$7.99/month",
+        "description": "AI-powered design tool for marketing materials.",
+        "link": "https://crello.com",
+        "automation": "ai",
+        "aiFeatures": ["Smart templates", "Auto-resize", "Brand consistency"]
+      }
+    ]
+  },
+  {
+    "id": "marketing-50",
+    "field": "marketing",
+    "budget_min": 50,
+    "budget_max": 50,
+    "tools": [
+      {
+        "name": "ActiveCampaign",
+        "purpose": "Email marketing",
+        "price": "$15/month",
+        "description": "AI-powered email marketing with predictive analytics.",
+        "link": "https://activecampaign.com",
+        "automation": "auto",
+        "aiFeatures": ["Predictive sending", "Smart segmentation", "Behavioral automation"]
+      },
+      {
+        "name": "Jasper",
+        "purpose": "AI writing",
+        "price": "$39/month",
+        "description": "AI-powered content creation for marketing materials.",
+        "link": "https://jasper.ai",
+        "automation": "ai",
+        "aiFeatures": ["Content generation", "Brand voice", "SEO optimization"]
+      },
+      {
+        "name": "Mixpanel",
+        "purpose": "Analytics",
+        "price": "$25/month",
+        "description": "Advanced analytics with AI-powered insights.",
+        "link": "https://mixpanel.com",
+        "automation": "ai",
+        "aiFeatures": ["Anomaly detection", "Predictive analytics", "Smart alerts"]
+      },
+      {
+        "name": "Make (Integromat)",
+        "purpose": "Automation",
+        "price": "$9/month",
+        "description": "Visual workflow automation with AI assistance.",
+        "link": "https://make.com",
+        "automation": "auto",
+        "aiFeatures": ["Smart routing", "Error handling", "Performance optimization"]
+      },
+      {
+        "name": "Klaviyo",
+        "purpose": "Email marketing",
+        "price": "$20/month",
+        "description": "E-commerce focused email marketing with AI.",
+        "link": "https://klaviyo.com",
+        "automation": "ai",
+        "aiFeatures": ["Predictive analytics", "Smart segmentation", "Revenue optimization"]
+      },
+      {
+        "name": "Sprout Social",
+        "purpose": "Social media",
+        "price": "$24/month",
+        "description": "Enterprise social media management with AI insights.",
+        "link": "https://sproutsocial.com",
+        "automation": "ai",
+        "aiFeatures": ["Smart publishing", "Sentiment analysis", "Competitor insights"]
+      },
+      {
+        "name": "Copy.ai",
+        "purpose": "AI writing",
+        "price": "$36/month",
+        "description": "AI copywriting tool for marketing content.",
+        "link": "https://copy.ai",
+        "automation": "ai",
+        "aiFeatures": ["Copy generation", "Brand voice", "A/B testing"]
+      }
+    ]
+  },
+  {
+    "id": "website-0",
+    "field": "website",
+    "budget_min": 0,
+    "budget_max": 0,
+    "tools": [
+      {
+        "name": "Netlify",
+        "purpose": "Hosting",
+        "price": "Free",
+        "description": "Deploy websites with automated CI/CD and AI-powered optimization.",
+        "link": "https://netlify.com",
+        "automation": "auto",
+        "aiFeatures": ["Auto-deployment", "Performance optimization", "Smart caching"]
+      },
+      {
+        "name": "GitHub",
+        "purpose": "Version control",
+        "price": "Free",
+        "description": "Code hosting with AI-powered code suggestions and automation.",
+        "link": "https://github.com",
+        "automation": "ai",
+        "aiFeatures": ["Copilot suggestions", "Automated security scanning", "Smart PR reviews"]
+      },
+      {
+        "name": "Figma",
+        "purpose": "Design",
+        "price": "Free",
+        "description": "Collaborative design with AI-powered components and automation.",
+        "link": "https://figma.com",
+        "automation": "ai",
+        "aiFeatures": ["Smart components", "Auto-layout", "Design suggestions"]
+      },
+      {
+        "name": "Vercel",
+        "purpose": "Deployment",
+        "price": "Free",
+        "description": "AI-powered deployment platform with automatic optimization.",
+        "link": "https://vercel.com",
+        "automation": "auto",
+        "aiFeatures": ["Auto-deployment", "Performance optimization", "Edge functions"]
+      },
+      {
+        "name": "Cloudflare",
+        "purpose": "CDN & Security",
+        "price": "Free",
+        "description": "AI-powered CDN with automated security and performance optimization.",
+        "link": "https://cloudflare.com",
+        "automation": "ai",
+        "aiFeatures": ["Bot protection", "Smart caching", "Performance insights"]
+      },
+      {
+        "name": "CodePen",
+        "purpose": "Code editor",
+        "price": "Free",
+        "description": "Online code editor with AI-powered suggestions.",
+        "link": "https://codepen.io",
+        "automation": "ai",
+        "aiFeatures": ["Code suggestions", "Auto-formatting", "Live collaboration"]
+      },
+      {
+        "name": "Glitch",
+        "purpose": "Development",
+        "price": "Free",
+        "description": "Online development platform with AI assistance.",
+        "link": "https://glitch.com",
+        "automation": "ai",
+        "aiFeatures": ["Smart suggestions", "Auto-deployment", "Community features"]
+      }
+    ]
+  },
+  {
+    "id": "website-10",
+    "field": "website",
+    "budget_min": 10,
+    "budget_max": 10,
+    "tools": [
+      {
+        "name": "Webflow",
+        "purpose": "Website builder",
+        "price": "$14/month",
+        "description": "AI-powered website builder with automated responsive design.",
+        "link": "https://webflow.com",
+        "automation": "ai",
+        "aiFeatures": ["Smart layouts", "Auto-responsive", "SEO optimization"]
+      },
+      {
+        "name": "Squarespace",
+        "purpose": "Website builder",
+        "price": "$12/month",
+        "description": "AI-powered templates and automated content optimization.",
+        "link": "https://squarespace.com",
+        "automation": "ai",
+        "aiFeatures": ["Smart templates", "Content suggestions", "SEO automation"]
+      },
+      {
+        "name": "Wix",
+        "purpose": "Website builder",
+        "price": "$8/month",
+        "description": "AI website builder with automated design and content creation.",
+        "link": "https://wix.com",
+        "automation": "ai",
+        "aiFeatures": ["ADI builder", "Smart design", "Content generation"]
+      },
+      {
+        "name": "GitHub Copilot",
+        "purpose": "AI coding",
+        "price": "$10/month",
+        "description": "AI-powered code completion and suggestions for developers.",
+        "link": "https://github.com/features/copilot",
+        "automation": "ai",
+        "aiFeatures": ["Code completion", "Bug detection", "Documentation generation"]
+      },
+      {
+        "name": "Replit",
+        "purpose": "Development",
+        "price": "$7/month",
+        "description": "Online IDE with AI-powered coding assistance.",
+        "link": "https://replit.com",
+        "automation": "ai",
+        "aiFeatures": ["Code suggestions", "Auto-deployment", "Collaboration tools"]
+      },
+      {
+        "name": "StackBlitz",
+        "purpose": "Development",
+        "price": "$8/month",
+        "description": "Online development environment with AI features.",
+        "link": "https://stackblitz.com",
+        "automation": "ai",
+        "aiFeatures": ["Smart suggestions", "Instant preview", "Git integration"]
+      },
+      {
+        "name": "CodeSandbox",
+        "purpose": "Development",
+        "price": "$9/month",
+        "description": "Online code editor with AI-powered features.",
+        "link": "https://codesandbox.io",
+        "automation": "ai",
+        "aiFeatures": ["Smart templates", "Auto-imports", "Live collaboration"]
+      }
+    ]
+  },
+  {
+    "id": "website-50",
+    "field": "website",
+    "budget_min": 50,
+    "budget_max": 50,
+    "tools": [
+      {
+        "name": "Shopify",
+        "purpose": "E-commerce",
+        "price": "$29/month",
+        "description": "AI-powered e-commerce platform with automated marketing and optimization.",
+        "link": "https://shopify.com",
+        "automation": "auto",
+        "aiFeatures": ["Smart recommendations", "Inventory optimization", "Marketing automation"]
+      },
+      {
+        "name": "WordPress.com",
+        "purpose": "CMS",
+        "price": "$15/month",
+        "description": "AI-powered content management with automated SEO and performance.",
+        "link": "https://wordpress.com",
+        "automation": "ai",
+        "aiFeatures": ["SEO optimization", "Performance insights", "Content suggestions"]
+      },
+      {
+        "name": "Framer",
+        "purpose": "Prototyping",
+        "price": "$20/month",
+        "description": "AI-powered design and prototyping with automated interactions.",
+        "link": "https://framer.com",
+        "automation": "ai",
+        "aiFeatures": ["Smart animations", "Auto-layout", "Design suggestions"]
+      },
+      {
+        "name": "Clerk",
+        "purpose": "Authentication",
+        "price": "$25/month",
+        "description": "AI-powered authentication with automated security and user management.",
+        "link": "https://clerk.com",
+        "automation": "auto",
+        "aiFeatures": ["Fraud detection", "User behavior analysis", "Security automation"]
+      },
+      {
+        "name": "Algolia",
+        "purpose": "Search",
+        "price": "$1/1000 searches",
+        "description": "AI-powered search with automated relevance and personalization.",
+        "link": "https://algolia.com",
+        "automation": "ai",
+        "aiFeatures": ["Smart ranking", "Personalization", "Query suggestions"]
+      },
+      {
+        "name": "Stripe",
+        "purpose": "Payments",
+        "price": "2.9% + 30¢",
+        "description": "AI-powered payment processing with fraud detection.",
+        "link": "https://stripe.com",
+        "automation": "ai",
+        "aiFeatures": ["Fraud detection", "Smart routing", "Risk assessment"]
+      },
+      {
+        "name": "Supabase",
+        "purpose": "Backend",
+        "price": "$25/month",
+        "description": "AI-powered backend-as-a-service with automated scaling.",
+        "link": "https://supabase.com",
+        "automation": "auto",
+        "aiFeatures": ["Auto-scaling", "Smart caching", "Performance optimization"]
+      }
+    ]
+  },
+  {
+    "id": "business-0",
+    "field": "business",
+    "budget_min": 0,
+    "budget_max": 0,
+    "tools": [
+      {
+        "name": "Google Workspace",
+        "purpose": "Productivity",
+        "price": "Free for personal use",
+        "description": "AI-powered productivity suite with automated collaboration features.",
+        "link": "https://workspace.google.com",
+        "automation": "ai",
+        "aiFeatures": ["Smart compose", "Auto-suggestions", "Collaboration tools"]
+      },
+      {
+        "name": "Trello",
+        "purpose": "Project management",
+        "price": "Free",
+        "description": "AI-powered project management with automated workflows and insights.",
+        "link": "https://trello.com",
+        "automation": "auto",
+        "aiFeatures": ["Smart suggestions", "Workflow automation", "Performance insights"]
+      },
+      {
+        "name": "Slack",
+        "purpose": "Communication",
+        "price": "Free",
+        "description": "AI-powered team communication with automated notifications and workflows.",
+        "link": "https://slack.com",
+        "automation": "auto",
+        "aiFeatures": ["Smart notifications", "Workflow automation", "Search optimization"]
+      },
+      {
+        "name": "Notion",
+        "purpose": "Documentation",
+        "price": "Free for personal use",
+        "description": "AI-powered workspace with automated organization and templates.",
+        "link": "https://notion.so",
+        "automation": "ai",
+        "aiFeatures": ["Smart templates", "Auto-organization", "Content suggestions"]
+      },
+      {
+        "name": "Airtable",
+        "purpose": "Database",
+        "price": "Free for 1,200 records",
+        "description": "AI-powered database with automated workflows and data insights.",
+        "link": "https://airtable.com",
+        "automation": "auto",
+        "aiFeatures": ["Smart views", "Workflow automation", "Data insights"]
+      },
+      {
+        "name": "Discord",
+        "purpose": "Communication",
+        "price": "Free",
+        "description": "Community platform with AI-powered moderation.",
+        "link": "https://discord.com",
+        "automation": "ai",
+        "aiFeatures": ["Auto-moderation", "Smart notifications", "Community insights"]
+      },
+      {
+        "name": "Evernote",
+        "purpose": "Note taking",
+        "price": "Free",
+        "description": "AI-powered note-taking with smart organization.",
+        "link": "https://evernote.com",
+        "automation": "ai",
+        "aiFeatures": ["Smart search", "Auto-tagging", "Content suggestions"]
+      }
+    ]
+  },
+  {
+    "id": "business-10",
+    "field": "business",
+    "budget_min": 10,
+    "budget_max": 10,
+    "tools": [
+      {
+        "name": "Asana",
+        "purpose": "Project management",
+        "price": "$10.99/month",
+        "description": "AI-powered project management with automated task optimization.",
+        "link": "https://asana.com",
+        "automation": "ai",
+        "aiFeatures": ["Smart scheduling", "Workload optimization", "Progress insights"]
+      },
+      {
+        "name": "Monday.com",
+        "purpose": "Work management",
+        "price": "$8/month",
+        "description": "AI-powered work management with automated workflows and insights.",
+        "link": "https://monday.com",
+        "automation": "auto",
+        "aiFeatures": ["Smart automation", "Performance insights", "Workflow optimization"]
+      },
+      {
+        "name": "ClickUp",
+        "purpose": "Productivity",
+        "price": "$5/month",
+        "description": "AI-powered productivity platform with automated task management.",
+        "link": "https://clickup.com",
+        "automation": "auto",
+        "aiFeatures": ["Smart automation", "Time tracking", "Performance analytics"]
+      },
+      {
+        "name": "Loom",
+        "purpose": "Video communication",
+        "price": "$8/month",
+        "description": "AI-powered video messaging with automated transcription and insights.",
+        "link": "https://loom.com",
+        "automation": "ai",
+        "aiFeatures": ["Auto-transcription", "Smart editing", "Engagement insights"]
+      },
+      {
+        "name": "Calendly",
+        "purpose": "Scheduling",
+        "price": "$8/month",
+        "description": "AI-powered scheduling with automated optimization and reminders.",
+        "link": "https://calendly.com",
+        "automation": "auto",
+        "aiFeatures": ["Smart scheduling", "Time optimization", "Automated reminders"]
+      },
+      {
+        "name": "Zoom",
+        "purpose": "Video conferencing",
+        "price": "$14.99/month",
+        "description": "AI-powered video conferencing with automated features.",
+        "link": "https://zoom.us",
+        "automation": "ai",
+        "aiFeatures": ["Auto-transcription", "Smart backgrounds", "Meeting insights"]
+      },
+      {
+        "name": "Miro",
+        "purpose": "Collaboration",
+        "price": "$8/month",
+        "description": "AI-powered whiteboard with automated collaboration features.",
+        "link": "https://miro.com",
+        "automation": "ai",
+        "aiFeatures": ["Smart templates", "Auto-organization", "Collaboration insights"]
+      }
+    ]
+  },
+  {
+    "id": "business-50",
+    "field": "business",
+    "budget_min": 50,
+    "budget_max": 50,
+    "tools": [
+      {
+        "name": "HubSpot",
+        "purpose": "CRM",
+        "price": "$45/month",
+        "description": "AI-powered CRM with automated lead scoring and marketing automation.",
+        "link": "https://hubspot.com",
+        "automation": "auto",
+        "aiFeatures": ["Lead scoring", "Marketing automation", "Sales insights"]
+      },
+      {
+        "name": "Salesforce",
+        "purpose": "CRM",
+        "price": "$25/month",
+        "description": "AI-powered CRM with Einstein AI for automated insights and predictions.",
+        "link": "https://salesforce.com",
+        "automation": "ai",
+        "aiFeatures": ["Einstein AI", "Predictive analytics", "Smart automation"]
+      },
+      {
+        "name": "Zendesk",
+        "purpose": "Customer support",
+        "price": "$19/month",
+        "description": "AI-powered customer support with automated responses and insights.",
+        "link": "https://zendesk.com",
+        "automation": "ai",
+        "aiFeatures": ["Smart responses", "Ticket routing", "Customer insights"]
+      },
+      {
+        "name": "Intercom",
+        "purpose": "Customer messaging",
+        "price": "$39/month",
+        "description": "AI-powered customer messaging with automated conversations and insights.",
+        "link": "https://intercom.com",
+        "automation": "ai",
+        "aiFeatures": ["Smart conversations", "Auto-responses", "Customer insights"]
+      },
+      {
+        "name": "Pipedrive",
+        "purpose": "Sales CRM",
+        "price": "$15/month",
+        "description": "AI-powered sales CRM with automated pipeline management and insights.",
+        "link": "https://pipedrive.com",
+        "automation": "ai",
+        "aiFeatures": ["Smart pipeline", "Lead scoring", "Sales insights"]
+      },
+      {
+        "name": "Freshdesk",
+        "purpose": "Customer support",
+        "price": "$15/month",
+        "description": "AI-powered helpdesk with automated ticket management.",
+        "link": "https://freshdesk.com",
+        "automation": "ai",
+        "aiFeatures": ["Smart routing", "Auto-responses", "Customer insights"]
+      },
+      {
+        "name": "Gong",
+        "purpose": "Sales intelligence",
+        "price": "$40/month",
+        "description": "AI-powered sales intelligence with automated insights.",
+        "link": "https://gong.io",
+        "automation": "ai",
+        "aiFeatures": ["Call analysis", "Deal insights", "Performance coaching"]
+      }
+    ]
+  },
+  {
+    "id": "gamedev-0",
+    "field": "gamedev",
+    "budget_min": 0,
+    "budget_max": 0,
+    "tools": [
+      {
+        "name": "Unity",
+        "purpose": "Game engine",
+        "price": "Free for personal use",
+        "description": "AI-powered game engine with automated asset optimization and testing.",
+        "link": "https://unity.com",
+        "automation": "ai",
+        "aiFeatures": ["Asset optimization", "Performance insights", "Testing automation"]
+      },
+      {
+        "name": "Godot",
+        "purpose": "Game engine",
+        "price": "Free",
+        "description": "Open-source game engine with AI-powered development tools.",
+        "link": "https://godotengine.org",
+        "automation": "ai",
+        "aiFeatures": ["Code completion", "Asset management", "Performance optimization"]
+      },
+      {
+        "name": "GitHub",
+        "purpose": "Version control",
+        "price": "Free",
+        "description": "AI-powered code hosting with automated testing and deployment.",
+        "link": "https://github.com",
+        "automation": "ai",
+        "aiFeatures": ["Copilot suggestions", "Automated testing", "CI/CD automation"]
+      },
+      {
+        "name": "Discord",
+        "purpose": "Community",
+        "price": "Free",
+        "description": "AI-powered community platform with automated moderation and insights.",
+        "link": "https://discord.com",
+        "automation": "auto",
+        "aiFeatures": ["Auto-moderation", "Smart notifications", "Community insights"]
+      },
+      {
+        "name": "Itch.io",
+        "purpose": "Game distribution",
+        "price": "Free",
+        "description": "AI-powered game distribution platform with automated analytics.",
+        "link": "https://itch.io",
+        "automation": "ai",
+        "aiFeatures": ["Analytics insights", "Recommendation engine", "Performance tracking"]
+      },
+      {
+        "name": "Blender",
+        "purpose": "3D modeling",
+        "price": "Free",
+        "description": "AI-powered 3D modeling with automated rigging and animation.",
+        "link": "https://blender.org",
+        "automation": "ai",
+        "aiFeatures": ["Auto-rigging", "Smart modeling", "Animation tools"]
+      },
+      {
+        "name": "GIMP",
+        "purpose": "Image editing",
+        "price": "Free",
+        "description": "AI-powered image editing with automated features.",
+        "link": "https://gimp.org",
+        "automation": "ai",
+        "aiFeatures": ["Smart filters", "Auto-enhancement", "Batch processing"]
+      }
+    ]
+  },
+  {
+    "id": "gamedev-10",
+    "field": "gamedev",
+    "budget_min": 10,
+    "budget_max": 10,
+    "tools": [
+      {
+        "name": "GameMaker Studio",
+        "purpose": "Game engine",
+        "price": "$5/month",
+        "description": "AI-powered 2D game engine with automated asset management.",
+        "link": "https://gamemaker.io",
+        "automation": "ai",
+        "aiFeatures": ["Asset optimization", "Code suggestions", "Performance insights"]
+      },
+      {
+        "name": "Construct",
+        "purpose": "Game engine",
+        "price": "$8/month",
+        "description": "AI-powered game engine with automated behavior creation.",
+        "link": "https://construct.net",
+        "automation": "ai",
+        "aiFeatures": ["Smart behaviors", "Asset management", "Performance optimization"]
+      },
+      {
+        "name": "Aseprite",
+        "purpose": "Pixel art",
+        "price": "$20 one-time",
+        "description": "AI-powered pixel art editor with automated animation tools.",
+        "link": "https://aseprite.org",
+        "automation": "ai",
+        "aiFeatures": ["Animation tools", "Color optimization", "Export automation"]
+      },
+      {
+        "name": "Audacity",
+        "purpose": "Audio editing",
+        "price": "Free",
+        "description": "AI-powered audio editor with automated noise reduction and effects.",
+        "link": "https://audacityteam.org",
+        "automation": "ai",
+        "aiFeatures": ["Noise reduction", "Auto-effects", "Audio optimization"]
+      },
+      {
+        "name": "LMMS",
+        "purpose": "Music production",
+        "price": "Free",
+        "description": "AI-powered music production with automated composition tools.",
+        "link": "https://lmms.io",
+        "automation": "ai",
+        "aiFeatures": ["Auto-composition", "Smart instruments", "Performance optimization"]
+      },
+      {
+        "name": "Inkscape",
+        "purpose": "Vector graphics",
+        "price": "Free",
+        "description": "AI-powered vector graphics editor with automated features.",
+        "link": "https://inkscape.org",
+        "automation": "ai",
+        "aiFeatures": ["Smart paths", "Auto-tracing", "Export optimization"]
+      },
+      {
+        "name": "Krita",
+        "purpose": "Digital painting",
+        "price": "Free",
+        "description": "AI-powered digital painting with automated brush optimization.",
+        "link": "https://krita.org",
+        "automation": "ai",
+        "aiFeatures": ["Smart brushes", "Auto-enhancement", "Performance optimization"]
+      }
+    ]
+  },
+  {
+    "id": "gamedev-50",
+    "field": "gamedev",
+    "budget_min": 50,
+    "budget_max": 50,
+    "tools": [
+      {
+        "name": "Unreal Engine",
+        "purpose": "Game engine",
+        "price": "Free until $1M revenue",
+        "description": "AI-powered 3D game engine with automated asset generation and optimization.",
+        "link": "https://unrealengine.com",
+        "automation": "ai",
+        "aiFeatures": ["Asset generation", "Performance optimization", "AI-powered tools"]
+      },
+      {
+        "name": "Substance Painter",
+        "purpose": "Texture painting",
+        "price": "$19.90/month",
+        "description": "AI-powered texture painting with automated material generation.",
+        "link": "https://adobe.com/products/substance3d-painter.html",
+        "automation": "ai",
+        "aiFeatures": ["Smart materials", "Auto-texturing", "Material optimization"]
+      },
+      {
+        "name": "Wwise",
+        "purpose": "Audio middleware",
+        "price": "Free for indie",
+        "description": "AI-powered audio middleware with automated sound design.",
+        "link": "https://audiokinetic.com",
+        "automation": "ai",
+        "aiFeatures": ["Smart audio", "Auto-mixing", "Performance optimization"]
+      },
+      {
+        "name": "PlayFab",
+        "purpose": "Game services",
+        "price": "Free tier available",
+        "description": "AI-powered game services with automated analytics and player insights.",
+        "link": "https://playfab.com",
+        "automation": "ai",
+        "aiFeatures": ["Player analytics", "Smart matchmaking", "Performance insights"]
+      },
+      {
+        "name": "GameAnalytics",
+        "purpose": "Analytics",
+        "price": "Free tier available",
+        "description": "AI-powered game analytics with automated insights.",
+        "link": "https://gameanalytics.com",
+        "automation": "ai",
+        "aiFeatures": ["Player behavior", "Performance insights", "Revenue optimization"]
+      },
+      {
+        "name": "Unity Analytics",
+        "purpose": "Analytics",
+        "price": "Free",
+        "description": "AI-powered analytics for Unity games with automated insights.",
+        "link": "https://unity.com/products/unity-analytics",
+        "automation": "ai",
+        "aiFeatures": ["Player insights", "Performance tracking", "Revenue analytics"]
+      },
+      {
+        "name": "Steam",
+        "purpose": "Distribution",
+        "price": "$100 one-time",
+        "description": "AI-powered game distribution with automated marketing.",
+        "link": "https://store.steampowered.com",
+        "automation": "ai",
+        "aiFeatures": ["Recommendation engine", "Marketing insights", "Sales analytics"]
+      }
+    ]
+  },
+  {
+    "id": "marketing-100",
+    "field": "marketing",
+    "budget_min": 100,
+    "budget_max": 100,
+    "tools": [
+      {
+        "name": "HubSpot",
+        "purpose": "Marketing automation",
+        "price": "$45/month",
+        "description": "Complete marketing automation platform with AI-powered insights.",
+        "link": "https://hubspot.com",
+        "automation": "ai",
+        "aiFeatures": ["Smart segmentation", "Predictive analytics", "Content optimization"]
+      },
+      {
+        "name": "ActiveCampaign",
+        "purpose": "Email marketing",
+        "price": "$29/month",
+        "description": "Advanced email marketing with AI-powered automation.",
+        "link": "https://activecampaign.com",
+        "automation": "ai",
+        "aiFeatures": ["Smart automation", "Behavioral targeting", "Predictive sending"]
+      },
+      {
+        "name": "Hootsuite Professional",
+        "purpose": "Social media",
+        "price": "$49/month",
+        "description": "Professional social media management with AI insights.",
+        "link": "https://hootsuite.com",
+        "automation": "ai",
+        "aiFeatures": ["Content optimization", "Sentiment analysis", "Performance predictions"]
+      }
+    ]
+  },
+  {
+    "id": "marketing-200",
+    "field": "marketing",
+    "budget_min": 200,
+    "budget_max": 200,
+    "tools": [
+      {
+        "name": "Marketo",
+        "purpose": "Marketing automation",
+        "price": "$895/month",
+        "description": "Enterprise marketing automation with advanced AI capabilities.",
+        "link": "https://marketo.com",
+        "automation": "ai",
+        "aiFeatures": ["Predictive analytics", "Smart campaigns", "Revenue attribution"]
+      },
+      {
+        "name": "Pardot",
+        "purpose": "B2B marketing",
+        "price": "$1,250/month",
+        "description": "B2B marketing automation with AI-powered lead scoring.",
+        "link": "https://pardot.com",
+        "automation": "ai",
+        "aiFeatures": ["Lead scoring", "Account-based marketing", "Predictive insights"]
+      }
+    ]
+  },
+  {
+    "id": "marketing-500",
+    "field": "marketing",
+    "budget_min": 500,
+    "budget_max": 500,
+    "tools": [
+      {
+        "name": "Adobe Marketing Cloud",
+        "purpose": "Marketing suite",
+        "price": "$500/month",
+        "description": "Complete marketing suite with AI-powered analytics.",
+        "link": "https://business.adobe.com",
+        "automation": "ai",
+        "aiFeatures": ["Cross-channel analytics", "Predictive modeling", "Content optimization"]
+      }
+    ]
+  },
+  {
+    "id": "website-100",
+    "field": "website",
+    "budget_min": 100,
+    "budget_max": 100,
+    "tools": [
+      {
+        "name": "Squarespace Business",
+        "purpose": "Website builder",
+        "price": "$23/month",
+        "description": "Professional website builder with AI-powered design.",
+        "link": "https://squarespace.com",
+        "automation": "ai",
+        "aiFeatures": ["Smart templates", "SEO optimization", "Performance insights"]
+      },
+      {
+        "name": "Wix Premium",
+        "purpose": "Website builder",
+        "price": "$27/month",
+        "description": "Advanced website builder with AI design assistance.",
+        "link": "https://wix.com",
+        "automation": "ai",
+        "aiFeatures": ["AI design", "Smart layouts", "Content optimization"]
+      }
+    ]
+  },
+  {
+    "id": "website-200",
+    "field": "website",
+    "budget_min": 200,
+    "budget_max": 200,
+    "tools": [
+      {
+        "name": "Webflow",
+        "purpose": "Website builder",
+        "price": "$39/month",
+        "description": "Professional website builder with advanced customization.",
+        "link": "https://webflow.com",
+        "automation": "auto",
+        "aiFeatures": ["Visual editor", "CMS", "E-commerce"]
+      }
+    ]
+  },
+  {
+    "id": "business-100",
+    "field": "business",
+    "budget_min": 100,
+    "budget_max": 100,
+    "tools": [
+      {
+        "name": "QuickBooks Online",
+        "purpose": "Accounting",
+        "price": "$30/month",
+        "description": "Cloud-based accounting with AI-powered insights.",
+        "link": "https://quickbooks.intuit.com",
+        "automation": "ai",
+        "aiFeatures": ["Smart categorization", "Expense tracking", "Financial insights"]
+      },
+      {
+        "name": "Salesforce Essentials",
+        "purpose": "CRM",
+        "price": "$25/month",
+        "description": "Small business CRM with AI-powered lead management.",
+        "link": "https://salesforce.com",
+        "automation": "ai",
+        "aiFeatures": ["Lead scoring", "Opportunity insights", "Sales forecasting"]
+      }
+    ]
+  }
+] 
