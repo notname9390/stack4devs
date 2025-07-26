@@ -8,6 +8,9 @@ import Settings from './pages/Settings';
 import Header from './components/Header';
 import { initializeTheme } from './utils/settings';
 import UseCaseExplorer from './pages/UseCaseExplorer';
+import CommunityCases from './pages/CommunityCases';
+import CreateCase from './pages/CreateCase';
+import CommunityCaseDetail from './pages/CommunityCaseDetail';
 
 function App() {
   useEffect(() => {
@@ -20,32 +23,38 @@ function App() {
         <Header />
         <main>
           <nav className="flex items-center space-x-8">
-            <Link 
-              to="/" 
+            <Link
+              to="/"
               className="text-gray-600 hover:text-blue-600 transition-colors duration-200"
             >
               Home
             </Link>
-            <Link 
-              to="/usecase" 
+            <Link
+              to="/usecase"
               className="text-gray-600 hover:text-blue-600 transition-colors duration-200"
             >
               Use Case Explorer
             </Link>
-            <Link 
-              to="/favorites" 
+            <Link
+              to="/community-cases"
+              className="text-gray-600 hover:text-blue-600 transition-colors duration-200"
+            >
+              Community Cases
+            </Link>
+            <Link
+              to="/favorites"
               className="text-gray-600 hover:text-blue-600 transition-colors duration-200"
             >
               My Favorites
             </Link>
-            <Link 
-              to="/settings" 
+            <Link
+              to="/settings"
               className="text-gray-600 hover:text-blue-600 transition-colors duration-200"
             >
               Settings
             </Link>
-            <Link 
-              to="/account" 
+            <Link
+              to="/account"
               className="text-gray-600 hover:text-blue-600 transition-colors duration-200"
             >
               Account
@@ -54,6 +63,9 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/usecase" element={<UseCaseExplorer />} />
+            <Route path="/community-cases" element={<CommunityCases />} />
+            <Route path="/create-case" element={<CreateCase />} />
+            <Route path="/community-case/:caseId" element={<CommunityCaseDetail />} />
             <Route path="/stack" element={<Stack />} />
             <Route path="/account" element={<Account />} />
             <Route path="/favorites" element={<MyFavorites />} />

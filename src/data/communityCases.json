@@ -1,0 +1,40 @@
+[
+  {
+    "id": "community-1",
+    "title": "Launch a Podcast",
+    "description": "Complete setup for launching and growing a successful podcast with minimal budget.",
+    "author": "podcast_master",
+    "created_at": "2024-01-15T10:30:00Z",
+    "budget": 25,
+    "tools": ["anchor", "canva", "mailchimp", "notion"],
+    "social_links": {
+      "whatsapp": "https://wa.me/?text=Check%20out%20this%20podcast%20setup!",
+      "instagram": "https://www.instagram.com/podcast_master",
+      "discord": "https://discord.gg/podcastcommunity",
+      "reddit": "https://reddit.com/r/podcasting",
+      "x": "https://x.com/podcast_master"
+    },
+    "approved": true,
+    "likes": 42,
+    "views": 156
+  },
+  {
+    "id": "community-2", 
+    "title": "Start a Dropshipping Business",
+    "description": "Zero-inventory e-commerce setup using automation and AI tools.",
+    "author": "ecommerce_guru",
+    "created_at": "2024-01-14T15:45:00Z",
+    "budget": 50,
+    "tools": ["shopify", "oberlo", "mailchimp", "canva"],
+    "social_links": {
+      "whatsapp": "https://wa.me/?text=Learn%20dropshipping%20with%20this%20stack!",
+      "instagram": "https://www.instagram.com/ecommerce_guru",
+      "discord": "https://discord.gg/dropshipping",
+      "reddit": "https://reddit.com/r/dropshipping",
+      "x": "https://x.com/ecommerce_guru"
+    },
+    "approved": true,
+    "likes": 38,
+    "views": 203
+  }
+] 
